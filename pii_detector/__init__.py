@@ -1,0 +1,1 @@
+from .cli import main  # Import `main()` from cli.py (or pii_detector.py)

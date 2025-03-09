@@ -1,0 +1,3 @@
+User login: <PERSON>, Email: <EMAIL_ADDRESS>, Phone: <PHONE_NUMBER>
+Failed login attempt: <PERSON>, Email: <EMAIL_ADDRESS>, Phone: <PHONE_NUMBER>
+Suspicious activity detected: Name: <PERSON>, SSN: <IDENTITY_CARD>
